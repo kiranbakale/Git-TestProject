@@ -1,5 +1,5 @@
 //Write a function in your name
+function kiran(){ 
+	console.log('This is Kiran'); 
+	 }
 
-function ganga(){
-	console.log('This is Ganga');
-}
